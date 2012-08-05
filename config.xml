@@ -7,7 +7,7 @@
 
   <!-- versionCode is optional and Android only -->
 
-  <name>Вестник ВХС</name>
+  <name>Вестник ВХС iPhone</name>
   <description>Вестник ВХС</description>
   <author href="http://www.skyname.net" email="info@skyname.net">Sky Online</author>
   <preference name="orientation" value="portrait" />
